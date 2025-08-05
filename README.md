@@ -3,7 +3,7 @@
 I'm **Matthew Norman, M.Ed**, a data analyst and instructional coach with over 8 years of experience in K–12 education. I currently serve as an Instructional Facilitator at Georgia Cyber Academy, where I use data to drive equity, compliance, and student success through strategic coaching and collaboration.
 
 
-## 📊 Projects
+## Projects
 
 ### [K–5 Virtual Classroom Engagement Study](https://tinyurl.com/Matthew-Norman)
 - Led a coaching initiative to increase student talk time in virtual K–5 classrooms by 10%.
@@ -20,7 +20,7 @@ I'm **Matthew Norman, M.Ed**, a data analyst and instructional coach with over 8
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 **Data Analysis & Programming**
 - SQL (queries, joins, aggregations)
@@ -39,7 +39,7 @@ I'm **Matthew Norman, M.Ed**, a data analyst and instructional coach with over 8
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Georgia Cyber Academy**  
 **Math Instructional Coach** | _Atlanta, GA_  
@@ -65,7 +65,7 @@ _June 2021 – June 2023_
 
 ---
 
-## 🎓 Education
+## Education
 
 **Valdosta State University**  
 _M.Ed., Curriculum & Instruction – May 2024_  
@@ -77,7 +77,7 @@ GPA: 3.4 (Concentration), 3.09 (Overall)
 
 ---
 
-## 📚 Relevant Coursework
+## Relevant Coursework
 
 **Graduate**
 - Research Methods in Education
@@ -91,7 +91,7 @@ GPA: 3.4 (Concentration), 3.09 (Overall)
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 - **Google Data Analytics Professional Certificate** (Coursera, April 2025)  
   Tools: SQL, R, Tableau, BigQuery, Excel, Google Sheets
@@ -101,7 +101,7 @@ GPA: 3.4 (Concentration), 3.09 (Overall)
 
 ---
 
-## 💼 Professional Skills
+## Professional Skills
 
 - Strong Communicator  
 - Critical Thinker  
@@ -115,17 +115,11 @@ GPA: 3.4 (Concentration), 3.09 (Overall)
 
 ---
 
-## ⚽ Interests
+## Interests
 
 - Church Media Specialist  
 - Soccer Coach  
 - Runner  
-
----
-
-## 📥 Resume Download
-
-[Click here to download my resume](resume.pdf)
 
 ---
 
