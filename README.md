@@ -6,17 +6,20 @@ I'm **Matthew Norman, M.Ed**, a data analyst and instructional coach with over 8
 ## Projects
 
 ### [K–5 Virtual Classroom Engagement Study](https://tinyurl.com/Matthew-Norman)
-- Led a coaching initiative to increase student talk time in virtual K–5 classrooms by 10%.
-- Collected and analyzed engagement data from Class dashboards before, during, and after intervention.
-- Used statistical metrics like mean, median, range, and standard deviation to track results.
-- Visualized results using Google Sheets, R, and Canva — showing an 8.76% increase in average talk time.
-- Shared findings and recommendations with school leadership.
+- Led a coaching initiative that increased student talk time by 10% across virtual K–5 classrooms.
+- Collected and analyzed engagement data from Class dashboards throughout the intervention cycle.
+- Applied statistical measures (mean, median, range, standard deviation) to evaluate changes in student participation.
+- Visualized results in a series of charts and reports, demonstrating an 8.76% increase in average talk time.
+- Tools: Google Sheets, R, Canva, Class dashboards
 
-### [Student Voice & Achievement Analysis](https://tinyurl.com/yfd5z94v)
-- Analyzed student microphone usage and academic performance across online classrooms.
-- Used SQL to compare talk time data with pass/fail rates and final grades.
-- Created visuals and interactive guides for a 60-minute leadership PD session.
-- Tools: SQL, Excel, Canva, Class dashboards.
+### [Talk to Triumph: Student Voice & Achievement Analysis](https://tinyurl.com/yfd5z94v)
+- Analyzed student microphone usage and academic performance to uncover patterns in online engagement.
+- Visualized multi-year Georgia Milestones data using Tableau to identify academic trends.
+- Used Excel to correlate student talk time with pass/fail rates and final grades.
+- Built Tableau dashboards comparing teacher talk time and student achievement to identify model classrooms.
+- Designed and presented interactive visuals for a 50-minute professional development session on data-driven instruction.
+- Findings directly informed a district-wide initiative to increase student talk time and expand teacher professional development.
+- Tools: Tableau, Excel, Canva, internal dashboards
 
 ---
 
@@ -35,7 +38,7 @@ I'm **Matthew Norman, M.Ed**, a data analyst and instructional coach with over 8
 **Data Management & Platforms**
 - Google BigQuery
 - Google Workspace, Microsoft 365
-- Canva, Zoom, Trello, Slack
+- Canva, Zoom, Slack
 
 ---
 
@@ -44,24 +47,39 @@ I'm **Matthew Norman, M.Ed**, a data analyst and instructional coach with over 8
 ### **Georgia Cyber Academy**  
 **Math Instructional Coach** | _Atlanta, GA_  
 _June 2024 – Present_
-- Analyzed student data to guide instructional planning and student support.
-- Built dashboards in Google Sheets to track academic growth and compliance.
-- Delivered data-focused PD to 100+ teachers.
-- Supported IEP adherence through coaching and data use.
+- Analyzed student assessment data to identify trends and support instructional planning.
+- Built interactive dashboards in Google Sheets to track academic progress and growth.
+- Presented data fi ndings and instructional impact to district leaders.
+- Delivered data-focused professional development to 100+ teachers across grade levels.
+- Supported teachers in implementing accommodations and tracking progress for students
 
 ### **The Westfield School**  
 **High School Math Teacher** | _Perry, GA_  
 _June 2023 – June 2024_
-- Instructed high school math using modern teaching strategies.
-- Used LMS tools for content delivery and student access.
-- Led PD sessions and aligned curriculum with department leaders.
+- Instructed various high school math courses with modern teaching strategies.
+- Analyzed student performance data to identify trends and guide enrichment.
+- Used LMS tools to organize course content and streamline student access.
+- Led PD sessions on effective classroom strategies.
+- Collaborated with department leaders to align curriculum and improve student outcomes.
 
 ### **Georgia Cyber Academy**  
 **Elementary Math & Science Teacher** | _Atlanta, GA_  
 _June 2021 – June 2023_
 - Taught 4th Grade Science and 5th Grade Math to 80–100 students daily.
-- Created digital learning modules in Canvas and produced green screen instructional videos.
-- Applied the Jigsaw method to increase collaboration and tracked student growth metrics.
+- Created e-learning modules using Canvas and digital tools.
+- Applied Jigsaw method to boost student collaboration.
+- Produced instructional videos with green screen enhancements.
+- Designed multimedia content for interactive virtual lessons.
+- Tracked student growth metrics to support instructional decisions and compliance goals.
+
+### **Feagin Mill Middle School**  
+**Middle Grades Math, Science, & Engineering Teacher** | _Warner Robins, GA_  
+_June 2018 – June 2021_
+- Established and developed the curriculum for the Engineering and Technology program.
+- Instructed 6th Grade Math, 6th Grade Science, and Middle School Math Remediation courses.
+- Converted remediation materials into tailored lessons based on individual assessment data.
+- Collaborated with peers to share best practices in instructional design and technology integration.
+- Ensured effective communication with students and parents, addressing student progress.
 
 ---
 
