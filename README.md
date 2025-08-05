@@ -1,11 +1,7 @@
-title: Matthew Norman
----
+# Educator & Data Analyst
 
-# 👋 Welcome
+I'm **Matthew Norman, M.Ed**, a data analyst and instructional coach with over 8 years of experience in K–12 education. I currently serve as an Instructional Facilitator at Georgia Cyber Academy, where I use data to drive equity, compliance, and student success through strategic coaching and collaboration.
 
-I'm **Matthew Norman, M.Ed**, a data analyst and instructional coach with 8+ years of experience in K–12 education. I currently serve as an Instructional Facilitator at Georgia Cyber Academy, where I use data to drive equity, compliance, and student success through strategic coaching and collaboration.
-
----
 
 ## 📊 Projects
 
