@@ -5,7 +5,8 @@ I'm **Matthew Norman, M.Ed**, a Data Analyst with expertise in SQL, Python, R, T
 
 ## Projects
 
-### [K–5 Virtual Classroom Engagement Study](https://tinyurl.com/Matthew-Norman) - _Google Sheets, Class, R, Canva_
+### [K–5 Virtual Classroom Engagement Study](https://tinyurl.com/Matthew-Norman) - 
+_Google Sheets, Class, R, Canva_
 - Led a coaching project that improved average student talk time in virtual K–5 classrooms by 8.76%.
 - Collected and analyzed engagement data from dashboards before, during, and after interventions.
 - Applied statistical measures (mean, median, range, standard deviation) to monitor trends.
@@ -13,7 +14,8 @@ I'm **Matthew Norman, M.Ed**, a Data Analyst with expertise in SQL, Python, R, T
 - Shared insights and recommendations with leadership to guide future coaching cycles.
 
 
-### [Talk to Triumph: Student Voice & Achievement Analysis](https://tinyurl.com/yfd5z94v) - _Excel, Class, SQL, Canva_
+### [Talk to Triumph: Student Voice & Achievement Analysis](https://tinyurl.com/yfd5z94v) - 
+_Excel, Class, SQL, Canva_
 - Led a data project analyzing student mic usage and academic performance in all K–12 classrooms.
 - Queried and visualized mic count data across grade bands and content areas using SQL.
 - Compared talk time to pass/fail rates and final letter grades to uncover engagement trends.
