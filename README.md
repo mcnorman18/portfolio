@@ -93,6 +93,7 @@ _June 2018 – June 2021_
 **Valdosta State University**  
 _M.Ed., Curriculum & Instruction – May 2024_  
 GPA: 3.63 (Concentration), 3.07 (Overall)
+
 **University of South Alabama**  
 _B.S., Exercise Science | Minor: Psychology – July 2015_  
 GPA: 3.4 (Concentration), 3.09 (Overall)
