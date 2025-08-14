@@ -4,7 +4,6 @@ I'm **Matthew Norman, M.Ed**, a Data Analyst with expertise in SQL, Python, R, T
 
 
 ## Projects
-
 ### [K–5 Virtual Classroom Engagement Study](https://tinyurl.com/Matthew-Norman) 
 _Google Sheets, Class, R, Canva_
 - Led a coaching project that improved average student talk time in virtual K–5 classrooms by 8.76%.
@@ -12,7 +11,6 @@ _Google Sheets, Class, R, Canva_
 - Applied statistical measures (mean, median, range, standard deviation) to monitor trends.
 - Created visualizations in Google Sheets, R, and Canva to present findings.
 - Shared insights and recommendations with leadership to guide future coaching cycles.
-
 
 ### [Talk to Triumph: Student Voice & Achievement Analysis](https://tinyurl.com/yfd5z94v)
 _Excel, Class, SQL, Canva_
@@ -56,7 +54,6 @@ _Excel, Class, SQL, Canva_
 ---
 
 ## Professional Experience
-
 ### **Georgia Cyber Academy**  
 **Math Instructional Coach** | _Atlanta, GA_  
 _June 2024 – Present_
@@ -64,7 +61,6 @@ _June 2024 – Present_
 - Built interactive dashboards in Google Sheets to track academic progress and growth.
 - Collaborated with instructional leaders to translate complex assessment data into actionable strategies that improved grade-level performance.
 - Presented data findings and instructional impact to district leaders.
-
 
 ### **The Westfield School**  
 **High School Math Teacher** | _Perry, GA_  
@@ -74,7 +70,6 @@ _June 2023 – June 2024_
 - Organized course content and streamlined student access through the LMS.
 - Led professional development sessions on effective instructional strategies.
 
-
 ### **Georgia Cyber Academy**  
 **Elementary Math & Science Teacher** | _Atlanta, GA_  
 _June 2021 – June 2023_
@@ -82,7 +77,6 @@ _June 2021 – June 2023_
 - Created e-learning modules and multimedia instructional content using Canvas and digital tools.
 - Applied collaborative learning methods, increasing student participation and engagement.
 - Tracked student growth metrics to support instructional decisions and compliance goals.
-
 
 ### **Feagin Mill Middle School**  
 **Middle Grades Math, Science, & Engineering Teacher** | _Warner Robins, GA_  
@@ -96,11 +90,9 @@ _June 2018 – June 2021_
 ---
 
 ## Education
-
 **Valdosta State University**  
 _M.Ed., Curriculum & Instruction – May 2024_  
 GPA: 3.63 (Concentration), 3.07 (Overall)
-
 **University of South Alabama**  
 _B.S., Exercise Science | Minor: Psychology – July 2015_  
 GPA: 3.4 (Concentration), 3.09 (Overall)
@@ -111,7 +103,6 @@ GPA: 3.4 (Concentration), 3.09 (Overall)
   Topics: Python, predictive analytics, statistical modeling, machine learning, data visualization
 - **Google Data Analytics Professional Certificate** (Coursera, April 2025)  
   Topics: SQL, R, Tableau, BigQuery, Excel, Google Sheets, data cleaning, visualization, and reporting
-
 - **Georgia State Teaching Certifications (GACE)**  (Various)
   Math, Science, Engineering & Tech Ed, Curriculum & Instruction
 
@@ -131,7 +122,6 @@ GPA: 3.4 (Concentration), 3.09 (Overall)
 ---
 
 ## Interests
-
 - Church Media Specialist  
 - Soccer Coach  
 - Runner  
