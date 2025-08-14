@@ -107,7 +107,7 @@ GPA: 3.4 (Concentration), 3.09 (Overall)
 ---
 
 ## Certifications
-- - **Google Advance Data Analytics Certificate** (Coursera, Expeected Sept. 2025)  
+- **Google Advance Data Analytics Certificate** (Coursera, Expeected Sept. 2025)  
   Topics: Python, predictive analytics, statistical modeling, machine learning, data visualization
 - **Google Data Analytics Professional Certificate** (Coursera, April 2025)  
   Topics: SQL, R, Tableau, BigQuery, Excel, Google Sheets, data cleaning, visualization, and reporting
